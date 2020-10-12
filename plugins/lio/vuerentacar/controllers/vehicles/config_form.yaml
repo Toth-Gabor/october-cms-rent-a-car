@@ -1,0 +1,10 @@
+name: Vehicles
+form: $/lio/vuerentacar/models/vehicle/fields.yaml
+modelClass: Lio\Vuerentacar\Models\Vehicle
+defaultRedirect: lio/vuerentacar/vehicles
+create:
+    redirect: 'lio/vuerentacar/vehicles/update/:id'
+    redirectClose: lio/vuerentacar/vehicles
+update:
+    redirect: lio/vuerentacar/vehicles
+    redirectClose: lio/vuerentacar/vehicles

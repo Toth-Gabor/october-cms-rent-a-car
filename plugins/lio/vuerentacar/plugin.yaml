@@ -1,0 +1,11 @@
+plugin:
+    name: 'lio.vuerentacar::lang.plugin.name'
+    description: 'lio.vuerentacar::lang.plugin.description'
+    author: lio
+    icon: oc-icon-car
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Vehicles
+        url: lio/vuerentacar/vehicles
+        icon: icon-car
