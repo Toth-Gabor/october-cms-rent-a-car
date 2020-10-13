@@ -1,0 +1,1 @@
+1602687060a:1:{i:0;O:8:"stdClass":3:{s:2:"id";i:2;s:4:"item";s:21:"offline_cors_settings";s:5:"value";s:198:"{"supportsCredentials":"0","maxAge":0,"allowedOrigins":[{"value":"*"}],"allowedHeaders":[],"allowedMethods":[{"value":"GET"},{"value":"POST"},{"value":"PUT"},{"value":"DELETE"}],"exposedHeaders":[]}";}}

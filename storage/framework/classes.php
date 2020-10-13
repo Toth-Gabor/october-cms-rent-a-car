@@ -71,4 +71,12 @@
   'RainLab\\Builder\\Components\\RecordList' => 'plugins\\rainlab\\builder\\components\\RecordList.php',
   'RainLab\\Builder\\Components\\RecordDetails' => 'plugins\\rainlab\\builder\\components\\RecordDetails.php',
   'Lio\\Vuerentacar\\Models\\Vehicle' => 'plugins\\lio\\vuerentacar\\models\\Vehicle.php',
+  'cms\\Controllers\\themes' => 'modules\\cms\\controllers\\themes.php',
+  'backend\\Controllers\\users' => 'modules\\backend\\controllers\\users.php',
+  'backend\\Controllers\\userroles' => 'modules\\backend\\controllers\\userroles.php',
+  'offline\\cors\\Plugin' => 'plugins\\offline\\cors\\Plugin.php',
+  'OFFLINE\\CORS\\Classes\\ServiceProvider' => 'plugins\\offline\\cors\\classes\\ServiceProvider.php',
+  'OFFLINE\\CORS\\Classes\\HandleCors' => 'plugins\\offline\\cors\\classes\\HandleCors.php',
+  'OFFLINE\\CORS\\Classes\\CorsService' => 'plugins\\offline\\cors\\classes\\CorsService.php',
+  'OFFLINE\\CORS\\Models\\Settings' => 'plugins\\offline\\cors\\models\\Settings.php',
 );
